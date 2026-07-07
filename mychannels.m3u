@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, Bangladesh Live
+https://iptv-org.github.io/iptv/countries/bd.m3u
+#EXTINF:-1, India Live
+https://iptv-org.github.io/iptv/countries/in.m3u
+#EXTINF:-1, Sports Live
+https://iptv-org.github.io/iptv/categories/sports.m3u
